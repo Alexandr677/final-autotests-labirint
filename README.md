@@ -12,5 +12,6 @@ Python и фреймворка Selenium. Для запусков тестов н
 * оформление покупки
 * отправки вопроса в поддержку
 * проверена работоспособность части ссылок на главной странице
+
 Для запуска автотестов в консоле необходимо набрать команду:
 python3 -m pytest -v --driver Chrome --driver-path /drivers/chromedriver tests/test_for_labirint.py
